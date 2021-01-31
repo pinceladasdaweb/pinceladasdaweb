@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Rogério</h1>
-<h3 align="center">A passionate Full Stack Overflow developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack/Cycle developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinceladasdaweb" alt="pinceladasdaweb" /> </p>
 
@@ -18,7 +18,3 @@
 <a href="https://linkedin.com/in/pedrorassis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrorassis" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3100272" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3100272" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinceladasdaweb&layout=compact" alt="pinceladasdaweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinceladasdaweb&show_icons=true" alt="pinceladasdaweb" /></p>
