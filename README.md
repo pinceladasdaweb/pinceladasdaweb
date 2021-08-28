@@ -13,8 +13,8 @@
 
 <p align="left">
 <h3 align="left">After intensive training, i got the following badges in LinuxTips training:</h3>
-<img align="center" src="/badges/163015524774.png" alt="pinceladasdaweb" height="200" width="200" />
-<img align="center" src="/badges/163015518053.png" alt="pinceladasdaweb" height="200" width="200" />
+<a href="#"><img align="center" src="/badges/163015524774.png" alt="pinceladasdaweb" height="200" width="200" /></a>
+<a href="#"><img align="center" src="/badges/163015518053.png" alt="pinceladasdaweb" height="200" width="200" /></a>
 </p>
 
 <p align="left">
