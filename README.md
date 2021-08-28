@@ -12,6 +12,12 @@
 - 📫 How to reach me **pinceladasdaweb@hotmail.com**
 
 <p align="left">
+<h3 align="left">After intensive training, i got the following badges in LinuxTips training:</h3>
+<img align="center" src="/badges/163015524774.png" alt="pinceladasdaweb" height="400" width="400" />
+<img align="center" src="/badges/163015518053.png" alt="pinceladasdaweb" height="400" width="400" />
+</p>
+
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/pinceladasdaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pinceladasdaweb" height="30" width="40" /></a>
 <a href="https://twitter.com/pinceladasdaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinceladasdaweb" height="30" width="40" /></a>
