@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Development Tips.**
 
+- 🧠 I write on **<a href="https://etcd.dev" target="blank">etcd.dev</a>**
+
 - 📫 How to reach me **pinceladasdaweb@hotmail.com**
 
 <p align="left">
