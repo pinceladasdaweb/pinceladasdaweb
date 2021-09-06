@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Go and Elixir.**
 
-- 💬 Ask me about **Development Tips.**
+- 🧠 I’m write on **<a href="https://etcd.dev" target="blank">etcd.dev</a>**
 
-- 🧠 I write on **<a href="https://etcd.dev" target="blank">etcd.dev</a>**
+- 💬 Ask me about **Development Tips.**
 
 - 📫 How to reach me **pinceladasdaweb@hotmail.com**
 
