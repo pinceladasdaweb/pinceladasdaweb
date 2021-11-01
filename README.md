@@ -17,6 +17,7 @@
 <h3 align="left">After intensive training, got the following badges in LINUXtips:</h3>
 <a href="#"><img align="center" src="/badges/163015524774.png" alt="pinceladasdaweb" height="200" width="200" /></a>
 <a href="#"><img align="center" src="/badges/163015518053.png" alt="pinceladasdaweb" height="200" width="200" /></a>
+<a href="#"><img align="center" src="/badges/16326003472488649416658963496782.png" alt="pinceladasdaweb" height="200" width="200" /></a>
 </p>
 
 <p align="left">
