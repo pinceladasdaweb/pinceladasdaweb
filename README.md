@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Rogério</h1>
-<h3 align="center">Head of Architecture and Infrastructure at Sami Saúde</h3>
+<h3 align="center">Head of Engineering at Sami Saúde</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pinceladasdaweb" alt="pinceladasdaweb" /></p>
 
