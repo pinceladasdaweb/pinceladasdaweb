@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **pinceladasdaweb@hotmail.com**
 
+- Do you want $200 in credits to spend however you want within 60 days at Digital Ocean? Find out more <a href="https://m.do.co/c/1b94ebf5c8c7" target="blank">here</a>.
+
 <p align="left">
 <h3 align="left">After intensive training, got the following badges in LINUXtips:</h3>
 <a href="#"><img align="center" src="/badges/docker.png" alt="pinceladasdaweb" height="200" width="200" /></a>
